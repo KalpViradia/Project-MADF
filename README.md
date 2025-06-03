@@ -9,8 +9,8 @@ A mobile application built using **Flutter** that allows users to register, log 
 * User authentication (Register & Login using SharedPreferences)
 * View a list of all user profiles
 * View detailed profile of any user
-* **Add new user profiles**
-* **Edit existing user profiles**
+* Add new user profiles
+* Edit existing user profiles
 * Delete user profiles
 * Add/remove users from favorites
 * View a list of favorite users only
